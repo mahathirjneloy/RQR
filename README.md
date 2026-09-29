@@ -1,13 +1,15 @@
 <div align="center">
 
-# RQR 📱
+# 📱 RQR
 
-### Simple. Fast. Lightweight.
+**Simple • Fast • Lightweight**
 
-A minimal QR code scanner for Android — built to scan quickly without unnecessary clutter.
+*A minimal QR code scanner for Android — built to scan quickly without unnecessary clutter.*
 
-![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success)
+<br />
+
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </div>
 
@@ -16,55 +18,74 @@ A minimal QR code scanner for Android — built to scan quickly without unnecess
 ## ✨ Why RQR?
 
 Most QR scanner apps come packed with features you may never use.
+**RQR keeps things elegantly simple.**
 
-**RQR keeps things simple.**
+> **Open the app** ➝ **Point your camera** ➝ **Scan.**
 
-> Open the app → point your camera → scan.
-
-That's it.
+That's it. No ads, no tracking, just pure functionality.
 
 ## 🚀 Features
 
-- ⚡ **Fast scanning** — focused on quick QR detection
-- 🪶 **Lightweight** — minimal overhead and clutter
-- 🎯 **Simple UI** — focused on the scanning experience
-- 🔒 **Privacy-minded** — only the camera is needed for scanning
-- 📷 **Camera scanning** — scan QR codes directly with your device
-- 🚫 **No unnecessary extras** — one job, done simply
+<table>
+  <tr>
+    <td>⚡ <b>Fast scanning</b></td>
+    <td>Optimized for instant QR code detection and decoding.</td>
+  </tr>
+  <tr>
+    <td>🪶 <b>Lightweight</b></td>
+    <td>Minimal app size with zero bloat or background overhead.</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Simple UI</b></td>
+    <td>A clean, modern interface focused entirely on the scanning experience.</td>
+  </tr>
+  <tr>
+    <td>🔒 <b>Privacy-minded</b></td>
+    <td>Requires strictly <b>only</b> the camera permission. No internet required.</td>
+  </tr>
+  <tr>
+    <td>🚫 <b>No extras</b></td>
+    <td>One job, done simply. No unnecessary extra features.</td>
+  </tr>
+</table>
 
 ## 📥 Download
 
-Get the latest APK from the [**Releases**](../../releases) page.
+Get the latest APK directly from the [**Releases**](../../releases) page.
 
-> **Note:** Android may show a warning when installing an APK downloaded outside Google Play. Only install APKs from sources you trust.
+> ⚠️ **Note:** Android may display a warning when installing an APK downloaded outside of Google Play. Please ensure you are downloading from this official repository.
 
 ## 📸 Screenshots
 
-_Screenshots coming soon._
+<div align="center">
+  <i>Screenshots coming soon...</i>
+</div>
+
+<br />
 
 ## 🔐 Privacy
 
-RQR requires camera permission to scan QR codes. Camera access is used for the scanning experience.
+RQR respects your privacy. We require **only** the camera permission to scan QR codes.
+Camera access is used exclusively for the scanning experience.
 
-The project follows a minimal, privacy-conscious approach and avoids unnecessary functionality.
+The project strictly follows a privacy-conscious approach and avoids any unnecessary functionality.
 
 ## 📱 Compatibility
 
-- Android devices with a camera
-- ARM64 / ARM-based devices
-- Camera permission required
+- **Hardware:** Android devices with a rear camera
+- **Architecture:** ARM64 / ARM-based devices
+- **Permissions:** Camera permission required
 
-> Compatibility details may change as the project evolves.
+> *Note: Compatibility details may expand as the project evolves.*
 
 ## 🛠️ Project Status
 
-RQR is an actively developing project. Improvements and documentation will continue to evolve while keeping the app **fast, simple, and lightweight**.
+RQR is an **actively developing** project. We are continuously working on improvements, optimizations, and documentation while staying true to our core philosophy: **Fast, Simple, and Lightweight**.
 
 ## 🧑‍💻 Developer
 
-**Mahathir Jaman Neloy**
-
-Building small, useful Android tools with a focus on simplicity and performance.
+Developed by **Mahathir Jaman Neloy**.
+*Building small, useful Android tools with a relentless focus on simplicity and performance.*
 
 ## 📄 License
 
@@ -74,8 +95,7 @@ License information will be added soon.
 
 <div align="center">
 
-### RQR
-
+### **RQR**
 **Scan. Done.** ⚡
 
 </div>
